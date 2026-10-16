@@ -1,0 +1,15 @@
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai2QuanLyKho\Bai2QuanLyKho\bin\Debug\net10.0-windows\Bai2QuanLyKho.exe
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai2QuanLyKho\Bai2QuanLyKho\bin\Debug\net10.0-windows\Bai2QuanLyKho.deps.json
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai2QuanLyKho\Bai2QuanLyKho\bin\Debug\net10.0-windows\Bai2QuanLyKho.runtimeconfig.json
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai2QuanLyKho\Bai2QuanLyKho\bin\Debug\net10.0-windows\Bai2QuanLyKho.dll
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai2QuanLyKho\Bai2QuanLyKho\bin\Debug\net10.0-windows\Bai2QuanLyKho.pdb
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai2QuanLyKho\Bai2QuanLyKho\obj\Debug\net10.0-windows\Bai2QuanLyKho.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai2QuanLyKho\Bai2QuanLyKho\obj\Debug\net10.0-windows\Bai2QuanLyKho.AssemblyInfoInputs.cache
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai2QuanLyKho\Bai2QuanLyKho\obj\Debug\net10.0-windows\Bai2QuanLyKho.AssemblyInfo.cs
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai2QuanLyKho\Bai2QuanLyKho\obj\Debug\net10.0-windows\Bai2QuanLyKho.csproj.CoreCompileInputs.cache
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai2QuanLyKho\Bai2QuanLyKho\obj\Debug\net10.0-windows\Bai2QuanLyKho.dll
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai2QuanLyKho\Bai2QuanLyKho\obj\Debug\net10.0-windows\refint\Bai2QuanLyKho.dll
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai2QuanLyKho\Bai2QuanLyKho\obj\Debug\net10.0-windows\Bai2QuanLyKho.pdb
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai2QuanLyKho\Bai2QuanLyKho\obj\Debug\net10.0-windows\Bai2QuanLyKho.genruntimeconfig.cache
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai2QuanLyKho\Bai2QuanLyKho\obj\Debug\net10.0-windows\ref\Bai2QuanLyKho.dll
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai2QuanLyKho\Bai2QuanLyKho\obj\Debug\net10.0-windows\Bai2Quan.037D1B53.Up2Date
