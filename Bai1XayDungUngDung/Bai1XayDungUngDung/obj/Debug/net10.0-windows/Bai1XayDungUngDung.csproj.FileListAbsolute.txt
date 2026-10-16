@@ -1,0 +1,17 @@
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai1XayDungUngDung\Bai1XayDungUngDung\bin\Debug\net10.0-windows\Bai1XayDungUngDung.exe
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai1XayDungUngDung\Bai1XayDungUngDung\bin\Debug\net10.0-windows\Bai1XayDungUngDung.deps.json
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai1XayDungUngDung\Bai1XayDungUngDung\bin\Debug\net10.0-windows\Bai1XayDungUngDung.runtimeconfig.json
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai1XayDungUngDung\Bai1XayDungUngDung\bin\Debug\net10.0-windows\Bai1XayDungUngDung.dll
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai1XayDungUngDung\Bai1XayDungUngDung\bin\Debug\net10.0-windows\Bai1XayDungUngDung.pdb
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai1XayDungUngDung\Bai1XayDungUngDung\obj\Debug\net10.0-windows\Bai1XayDungUngDung.frmDeviceManager.resources
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai1XayDungUngDung\Bai1XayDungUngDung\obj\Debug\net10.0-windows\Bai1XayDungUngDung.csproj.GenerateResource.cache
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai1XayDungUngDung\Bai1XayDungUngDung\obj\Debug\net10.0-windows\Bai1XayDungUngDung.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai1XayDungUngDung\Bai1XayDungUngDung\obj\Debug\net10.0-windows\Bai1XayDungUngDung.AssemblyInfoInputs.cache
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai1XayDungUngDung\Bai1XayDungUngDung\obj\Debug\net10.0-windows\Bai1XayDungUngDung.AssemblyInfo.cs
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai1XayDungUngDung\Bai1XayDungUngDung\obj\Debug\net10.0-windows\Bai1XayDungUngDung.csproj.CoreCompileInputs.cache
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai1XayDungUngDung\Bai1XayDungUngDung\obj\Debug\net10.0-windows\Bai1XayDungUngDung.dll
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai1XayDungUngDung\Bai1XayDungUngDung\obj\Debug\net10.0-windows\refint\Bai1XayDungUngDung.dll
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai1XayDungUngDung\Bai1XayDungUngDung\obj\Debug\net10.0-windows\Bai1XayDungUngDung.pdb
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai1XayDungUngDung\Bai1XayDungUngDung\obj\Debug\net10.0-windows\Bai1XayDungUngDung.genruntimeconfig.cache
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai1XayDungUngDung\Bai1XayDungUngDung\obj\Debug\net10.0-windows\ref\Bai1XayDungUngDung.dll
+D:\EPU\Nam 3\lap trinh dot net\kiemtra01\Bai03\Bai1XayDungUngDung\Bai1XayDungUngDung\obj\Debug\net10.0-windows\Bai1XayD.DE504ABA.Up2Date
